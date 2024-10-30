@@ -1,2 +1,3 @@
+# Teszteset 5: Mindkét tároló hibás, ALL mód nem tüzel
 GT4500,10,1.0,10,1.0
 TORPEDO,ALL

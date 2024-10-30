@@ -1,2 +1,3 @@
+# Teszteset 2: ALL mód - mindkét torpedótároló tüzel
 GT4500,10,0,10,0
 TORPEDO,ALL
