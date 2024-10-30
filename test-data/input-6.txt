@@ -1,0 +1,4 @@
+# Teszteset 6: SINGLE mód - egy hibás tárolóval
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
